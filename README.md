@@ -6,3 +6,4 @@ This is the Repository for uploading code files for the tasks of Lift Off C++ gr
 TASK 1
 create a folder of your name 
 inside that folder create a text file having your name, redg. no., branch and hobbies..
+in another text file list all the commands inorder you used to complete the task
