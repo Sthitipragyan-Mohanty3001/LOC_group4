@@ -1,4 +1,0 @@
-name-piyush agrawal
-reg no-230204009
-branch-CSE
-hobby-travelling
