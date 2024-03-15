@@ -1,0 +1,6 @@
+git clone: to create a clone of the repo in my system
+git status: to check for any upedates in repo
+git add . :to add all the untracked files 
+git commit : to commit 
+git push : to push the fil to the repo
+pull request
